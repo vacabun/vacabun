@@ -12,12 +12,6 @@
 [![Zephyr Technical Contributor](https://images.credly.com/size/110x110/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](http://www.credly.com/badges/c27ec6bd-1a3c-4044-bdae-1ad472e8a354 "Zephyr Technical Contributor")
 <!--END_SECTION:badges-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vacabun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vacabun" height="30" width="40" /></a>
-<a href="https://instagram.com/vacabun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vacabun" height="30" width="40" /></a>
-</p>
-
 <table align="center" >
 <tr>
   <td>
