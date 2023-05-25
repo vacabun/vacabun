@@ -15,9 +15,9 @@
 <table align="center" >
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=vacabun&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vacabun&show_icons=true&count_private=true&theme=dark" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vacabun&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vacabun&layout=compact&theme=dark" />
   </td>
 </tr>
