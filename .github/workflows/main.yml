@@ -1,6 +1,9 @@
 name: Update badges
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
