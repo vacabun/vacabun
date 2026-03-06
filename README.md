@@ -7,13 +7,7 @@
 
 - 📫 How to reach me [x.com/vacabun](https://x.com/vacabun)
 
-### My Badges:
+### Badges:
 <!--START_SECTION:badges-->
 [![Zephyr Technical Contributor](https://images.credly.com/size/110x110/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](http://www.credly.com/badges/c27ec6bd-1a3c-4044-bdae-1ad472e8a354 "Zephyr Technical Contributor")
 <!--END_SECTION:badges-->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Stats&username=vacabun" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&custom_title=Languages&exclude_repo=Quadrotor,netlify-blog,qingrenn.github.io&hide=jupyter%20notebook&username=vacabun" height="150" alt="languages graph"  />
-</div>
-
