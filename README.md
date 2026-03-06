@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://vacabun.github.io](https://vacabun.github.io)
 
-- 📫 How to reach me maguotong66@gmail.com
+- 📫 How to reach me [x.com/vacabun](https://x.com/vacabun)
 
 ### My Badges:
 <!--START_SECTION:badges-->
